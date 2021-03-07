@@ -1,1 +1,1 @@
-# minelore.hu
+# vanelly.hu
