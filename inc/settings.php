@@ -8,13 +8,13 @@ class Settings {
         $this->lang = 'en_US.utf8';
 
         // Database information
-        $this->host = 'localhost';
+        $this->host = 'mysql.srkhost.eu';
         $this->port = 3306;
 
-        $this->database = 'litebans';
+        $this->database = 's9300_adat';
 
-        $this->username = '';
-        $this->password = '';
+        $this->username = 'u9300_MRENexd0ZI';
+        $this->password = 'TL3h4JwGW1Tp';
 
         // If you set a table prefix in config.yml, set it here as well
         $this->table_prefix = "litebans_";
