@@ -8,13 +8,13 @@ class Settings {
         $this->lang = 'en_US.utf8';
 
         // Database information
-        $this->host = 'mysql.srkhost.eu';
+        $this->host = 'localhost';
         $this->port = 3306;
 
-        $this->database = 's9300_adat';
+        $this->database = 'litebans';
 
-        $this->username = 'u9300_MRENexd0ZI';
-        $this->password = 'TL3h4JwGW1Tp';
+        $this->username = '';
+        $this->password = '';
 
         // If you set a table prefix in config.yml, set it here as well
         $this->table_prefix = "litebans_";
@@ -33,7 +33,7 @@ class Settings {
         $this->show_server_scope = false;
 
         // Show server origin column?
-        $this->show_server_origin = true;
+        $this->show_server_origin = false;
 
         // Show server scope column in info.php?
         $this->info_show_server_scope = false;
