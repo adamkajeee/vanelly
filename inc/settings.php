@@ -33,7 +33,7 @@ class Settings {
         $this->show_server_scope = false;
 
         // Show server origin column?
-        $this->show_server_origin = false;
+        $this->show_server_origin = true;
 
         // Show server scope column in info.php?
         $this->info_show_server_scope = false;
