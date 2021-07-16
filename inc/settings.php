@@ -11,7 +11,7 @@ class Settings {
         $this->host = 'mysql.srkhost.eu';
         $this->port = 3306;
 
-        $this->database = 'litebans';
+        $this->database = 's9300_adat';
 
         $this->username = 'u9300_MRENexd0ZI';
         $this->password = 'TL3h4JwGW1Tp';
