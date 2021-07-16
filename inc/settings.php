@@ -5,7 +5,7 @@ class Settings {
 
     public function __construct($connect = true) {
         // Web interface language. Languages are stored in the "lang/" directory.
-        $this->lang = 'hu_HU.utf8';
+        $this->lang = 'en_US.utf8';
 
         // Database information
         $this->host = 'mysql.srkhost.eu';
